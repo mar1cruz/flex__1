@@ -1,1 +1,1 @@
-flex-1.vercel.app
+https://flex-1.vercel.app/
